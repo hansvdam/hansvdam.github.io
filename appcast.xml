@@ -17,7 +17,7 @@
           ]]>
         </description>
         <pubDate>Sat, 26 Jul 2014 15:20:11 +0000</pubDate>
-        <enclosure url="https://hansvdam.github.io/FinderTerminal.dmg" sparkle:version="2.0" length="$INSERT_ARCHIVE_LENGTH" type="application/octet-stream" sparkle:dsaSignature="$INSERT_DSA_SIGNATURE" />
+        <enclosure url="https://hansvdam.github.io/FinderTerminal.dmg" sparkle:version="2.0" length="$INSERT_ARCHIVE_LENGTH" type="application/octet-stream" sparkle:dsaSignature="MCwCFCm8RxV2heSu9ANkCb+k2G/ICQd/AhQaC61081MlZUKtTukq1Ij01dc5wA== />
       </item>
   </channel>
 </rss>
