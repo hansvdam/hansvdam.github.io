@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"  xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
-    <title>Test update for FinderTerminal</title>
+    <title>Update for FinderTerminal</title>
     <description>bla bla description.</description>
     <language>en</language>
       <item>
@@ -9,13 +9,14 @@
         <description>
           <![CDATA[
             <ul>
-              <li>This is an update test.</li>
-              <li>it just shows some text.</li>
+              <li>Fixed sorting error not alsways showing dirs first in tree.</li>
+              <li>Fixed crash when creating new window after adding a bookmark.</li>
+              <li>Fixed inability to add a bookmark after second window closed.</li>
             </ul>
           ]]>
         </description>
-        <pubDate>tue, 4 Jul 2017 11:29:11 +0000</pubDate>
-        <enclosure url="https://hansvdam.github.io/FinderTerminal-1.2.dmg" sparkle:version="1.2" length="$INSERT_ARCHIVE_LENGTH" type="application/octet-stream" sparkle:dsaSignature="MCwCFC+M0Pg/FYUVMl0h0ggpprEtc6uaAhRW/9BZ1R0DV2npePQKD7GqelHR1g==" />
+        <pubDate>wed, 5 Jul 2017 10:20:11 +0000</pubDate>
+        <enclosure url="https://hansvdam.github.io/FinderTerminal.dmg" sparkle:version="1.2.1alpha" length="$INSERT_ARCHIVE_LENGTH" type="application/octet-stream" sparkle:dsaSignature="MCwCFDIdhjW4nbD+j5o/Unvx0cDe8qOAAhRn1LuSSIUU84Y7wARKU7VEQM8CCA==" />
       </item>
   </channel>
 </rss>
