@@ -9,14 +9,14 @@
         <description>
           <![CDATA[
             <ul>
-              <li>Fixed sorting error not alsways showing dirs first in tree.</li>
-              <li>Fixed crash when creating new window after adding a bookmark.</li>
-              <li>Fixed inability to add a bookmark after second window closed.</li>
+              <li>exit bash gracefully, so commadn history is preserved.</li>
+              <li>save command hist before creating new window, so new window has same command hist as source window.</li>
+              <li>various other fixes and improvements.</li>
             </ul>
           ]]>
         </description>
         <pubDate>wed, 5 Jul 2017 10:20:11 +0000</pubDate>
-        <enclosure url="https://hansvdam.github.io/FinderTerminal.dmg" sparkle:version="1.2.1alpha" length="$INSERT_ARCHIVE_LENGTH" type="application/octet-stream" sparkle:dsaSignature="MCwCFDIdhjW4nbD+j5o/Unvx0cDe8qOAAhRn1LuSSIUU84Y7wARKU7VEQM8CCA==" />
+        <enclosure url="https://hansvdam.github.io/FinderTerminal.dmg" sparkle:version="1.2.2alpha" length="$INSERT_ARCHIVE_LENGTH" type="application/octet-stream" sparkle:dsaSignature="MCwCFGC6gG2gErnD9TGs6YIFYo1HOgmlAhQ4kDcY/sY6DSTJ61UIzfq9IGh0Aw==" />
       </item>
   </channel>
 </rss>
