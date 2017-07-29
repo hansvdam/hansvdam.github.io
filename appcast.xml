@@ -5,18 +5,17 @@
     <description>bla bla description.</description>
     <language>en</language>
       <item>
-        <title>Version 0.5 alpha</title>
+        <title>Version 0.5.1 alpha</title>
         <description>
           <![CDATA[
             <ul>
-              <li>exit bash gracefully, so commadn history is preserved.</li>
-              <li>save command hist before creating new window, so new window has same command hist as source window.</li>
-              <li>various other fixes and improvements.</li>
+              <li>fix error when entereing npm init</li>
+              <li>various little UI tweaks.</li>
             </ul>
           ]]>
         </description>
         <pubDate>thu, 20 Jul 2017 10:20:11 +0000</pubDate>
-        <enclosure url="https://hansvdam.github.io/FinderTerminal.dmg" sparkle:version="0.5.0" sparkle:ShortVersionString="0.5 beta" length="6900000" type="application/octet-stream" sparkle:dsaSignature="MCwCFAHb0RWrJ/V75VSeX2CMMrzb9Nt0AhRaWQa6BadbOaCHQ4uWlSmDcv3eww==" />
+        <enclosure url="https://hansvdam.github.io/FinderTerminal.dmg" sparkle:version="0.5.1" sparkle:ShortVersionString="0.5.1 beta" length="6900000" type="application/octet-stream" sparkle:dsaSignature="MC0CFGK/FwUFFbkCPe0zpYq2YgbpUXQkAhUAg+MbbqgMkaoLXbLjot2l7rfwp68=" />
       </item>
   </channel>
 </rss>
