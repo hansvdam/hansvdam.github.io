@@ -15,7 +15,7 @@
           ]]>
         </description>
         <pubDate>sat, 29 Jul 2017 10:20:11 +0000</pubDate>
-        <enclosure url="https://hansvdam.github.io/FinderTerminal.dmg" sparkle:version="2.5.1" sparkle:ShortVersionString="0.5.1 beta" length="6900000" type="application/octet-stream" sparkle:dsaSignature="MCwCFCNntyUP1yQoS2V6151gv0uO6Gl3AhQKuCVLPRKN3Zh+3f0UGx3+w89J5A==" />
+        <enclosure url="https://hansvdam.github.io/FinderTerminal.dmg" sparkle:version="0.5.1" sparkle:ShortVersionString="0.5.1 beta" length="6900000" type="application/octet-stream" sparkle:dsaSignature="MCwCFFl/F41Fq2xqCxbrOND+s1CkEPIYAhQfPnYSngvBGyrxqLz+tn/6IxHJ0w==" />
       </item>
   </channel>
 </rss>
