@@ -1,10 +1,21 @@
-<?xml version="1.0" standalone="yes"?><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
-<channel>
-<title>FinderTerminal</title>
-<item>
-<title>0.5.1</title>
-<pubDate>Sat, 29 Jul 2017 20:51:20 +0200</pubDate>
-<sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
-<enclosure url="https://hansvdam.github.io/FinderTerminal.dmg" sparkle:version="5" sparkle:shortVersionString="0.5.1" length="6831311" type="application/octet-stream" sparkle:dsaSignature="MCwCFB4NVt25sT7zWpQOYqpdFsd/cbkoAhQr6OqxzXSajIPKVFnNd7+uS3/hqg=="/>
-</item>
-</channel></rss>
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Update for FinderTerminal</title>
+    <description>bla bla description.</description>
+    <language>en</language>
+      <item>
+        <title>Version 0.5.3</title>
+        <description>
+          <![CDATA[
+            <ul>
+              <li>fix error when entereing npm init</li>
+              <li>various little UI tweaks.</li>
+            </ul>
+          ]]>
+        </description>
+        <pubDate>sun, 30 Jul 2017 13:28:11 +0000</pubDate>
+        <enclosure url="https://hansvdam.github.io/FinderTerminal.dmg" sparkle:version="0.5.3" sparkle:ShortVersionString="0.5.3" length="6900000" type="application/octet-stream" sparkle:dsaSignature="MCwCFDg8f5dEqJKx+hpRK+WKmSHaJes0AhR3suJ4HEzEK72hinKBZvDsISIPAg==" />
+      </item>
+  </channel>
+</rss>
