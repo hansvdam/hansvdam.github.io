@@ -5,7 +5,7 @@
     <description>bla bla description.</description>
     <language>en</language>
       <item>
-        <title>Version 0.5.3</title>
+        <title>Version 1.2.0</title>
         <description>
           <![CDATA[
             <ul>
@@ -14,8 +14,8 @@
             </ul>
           ]]>
         </description>
-        <pubDate>sun, 30 Jul 2017 13:28:11 +0000</pubDate>
-        <enclosure url="https://hansvdam.github.io/FinderTerminal.dmg" sparkle:version="0.5.3" sparkle:ShortVersionString="0.5.3" length="6900000" type="application/octet-stream" sparkle:dsaSignature="MCwCFFyAk6lMQkb3KM2RoEF+psTJSfL3AhQRG1Pr+Rh3X4a/Rukzg8z2yGIvNg==" />
+        <pubDate>sun, 30 Jul 2017 13:50:11 +0000</pubDate>
+        <enclosure url="https://hansvdam.github.io/FinderTerminal.dmg" sparkle:version="1.2.0" sparkle:ShortVersionString="1.2.0" length="6900000" type="application/octet-stream" sparkle:dsaSignature="MCwCFG50re3Mpbm/TkPqqU6Zw1/dm4tsAhQKh5AS8WH49JsunvATVj2xtUSOaw==" />
       </item>
   </channel>
 </rss>
