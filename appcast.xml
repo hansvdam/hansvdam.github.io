@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"  xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
-    <title>Update for FinderTerminal</title>
-    <description>bla bla description.</description>
+    <title>Update for TreeTerm</title>
+    <description>Initial new version.</description>
     <language>en</language>
       <item>
-        <title>Version 0.5.0</title>
+        <title>Version 0.5.2</title>
         <description>
           <![CDATA[
             <ul>
-              <li>fix error when entereing npm init</li>
-              <li>various little UI tweaks.</li>
+              <li>this may become the first release.</li>
+              <li>this may become the first release.</li>
             </ul>
           ]]>
         </description>
-        <pubDate>sun, 30 Jul 2017 13:50:11 +0000</pubDate>
-        <enclosure url="https://hansvdam.github.io/FinderTerminal.dmg" sparkle:version="0.5.0" sparkle:ShortVersionString="0.5.0" length="6900000" type="application/octet-stream" sparkle:dsaSignature="MCwCFD8GbJXOzr1uPYePrVGQS3vP9TM0AhQkhVB68d0Ui1nAUxOGLNrYLc2vbQ==" />
+        <pubDate>tue, 24 Oct 2017 13:50:11 +0000</pubDate>
+        <enclosure url="https://hansvdam.github.io/TreeTerm.dmg" sparkle:version="0.5.2" sparkle:ShortVersionString="0.5.2" length="6900000" type="application/octet-stream" sparkle:dsaSignature="MCwCFD+TZRTFgGuatqnmnFlOlhgRjBMcAhRjyu9qVNwjXBdjZQhWqgF/2yOdeg==" />
       </item>
   </channel>
 </rss>
