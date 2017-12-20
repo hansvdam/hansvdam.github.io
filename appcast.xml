@@ -5,7 +5,7 @@
     <description>Initial new version.</description>
     <language>en</language>
       <item>
-        <title>Version 0.5.3</title>
+        <title>Version 0.5.4</title>
         <description>
           <![CDATA[
             <ul>
@@ -14,8 +14,8 @@
             </ul>
           ]]>
         </description>
-        <pubDate>fri, 15 Dec 2017 15:04:11 +0000</pubDate>
-        <enclosure url="https://hansvdam.github.io/TreeTerm.dmg" sparkle:version="0.5.3" sparkle:ShortVersionString="0.5.3" length="6900000" type="application/octet-stream" sparkle:dsaSignature="MCsCE31SPcRXoi6xXu+17ulS0e0L4RACFCRFeiuMW/1qbt3/f+b6Tm4maKg/" />
+        <pubDate>wed, 20 Dec 2017 15:04:11 +0000</pubDate>
+        <enclosure url="https://hansvdam.github.io/TreeTerm.dmg" sparkle:version="0.5.3" sparkle:ShortVersionString="0.5.5" length="6900000" type="application/octet-stream" sparkle:dsaSignature="MC0CFH9h536KLsGYjFj6ApCirHJQzNrKAhUAgBpr9vPvFeso0F9Nx55thWBpRPY=" />
       </item>
   </channel>
 </rss>
