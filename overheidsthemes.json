@@ -2,10 +2,16 @@
   "status": "ok",
   "themes": [
     {
-      "id" : "idrem",
-      "name" : "namerem3",
-      "description" : "descrem",
-      "theme_facet" : "themerem"
+      "id" : "1",
+      "name" : "Bestuur",
+      "description" : "Bestuur description",
+      "theme_facet" : "http://standaarden.overheid.nl/owms/terms/Bestuur"
+    }
+    {
+      "id" : "2",
+      "name" : "Cultuur en Recreatie",
+      "description" : "Cultuur en Recreatie description",
+      "theme_facet" : "http://standaarden.overheid.nl/owms/terms/Cultuur_en_recreatie"
     }
   ]
 }
