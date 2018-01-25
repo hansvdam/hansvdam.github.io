@@ -6,7 +6,7 @@
       "name" : "Bestuur",
       "description" : "Bestuur description",
       "theme_facet" : "http://standaarden.overheid.nl/owms/terms/Bestuur"
-    }
+    },
     {
       "id" : "2",
       "name" : "Cultuur en Recreatie",
