@@ -2,16 +2,84 @@
   "status": "ok",
   "themes": [
     {
-      "id" : "1",
-      "name" : "Bestuur",
-      "description" : "Bestuur description",
-      "theme_facet" : "http://standaarden.overheid.nl/owms/terms/Bestuur"
+      "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Bestuur",
+      "label": "Bestuur",
+      "description": " description"
     },
     {
-      "id" : "2",
-      "name" : "Cultuur en Recreatie",
-      "description" : "Cultuur en Recreatie description",
-      "theme_facet" : "http://standaarden.overheid.nl/owms/terms/Cultuur_en_recreatie"
+      "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Cultuur_en_recreatie",
+      "label": "Cultuur en recreatie",
+      "description": " description"
+    },
+    {
+      "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Economie",
+      "label": "Economie",
+      "description": " description"
+    },
+    {
+      "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Financien",
+      "label": "Financi\u00ebn",
+      "description": " description"
+    },
+    {
+      "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Huisvesting_(thema)",
+      "label": "Huisvesting",
+      "description": " description"
+    },
+    {
+      "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Internationaal",
+      "label": "Internationaal",
+      "description": " description"
+    },
+    {
+      "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Landbouw_(thema)",
+      "label": "Landbouw"
+    },
+    {
+      "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Migratie_en_integratie",
+      "label": "Migratie en integratie",
+      "description": " description"
+    },
+    {
+      "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Natuur_en_milieu",
+      "label": "Natuur en milieu",
+      "description": " description"
+    },
+    {
+      "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Onderwijs_en_wetenschap",
+      "label": "Onderwijs en wetenschap",
+      "description": " description"
+    },
+    {
+      "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Openbare_orde_en_veiligheid",
+      "label": "Openbare orde en veiligheid"
+    },
+    {
+      "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Recht_(thema)",
+      "label": "Recht"
+    },
+    {
+      "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Ruimte_en_infrastructuur",
+      "label": "Ruimte en infrastructuur"
+    },
+    {
+      "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Sociale_zekerheid",
+      "label": "Sociale zekerheid",
+      "description": " description"
+    },
+    {
+      "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Verkeer_(thema)",
+      "label": "Verkeer",
+      "description": " description"
+    },
+    {
+      "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Werk_(thema)",
+      "label": "Werk"
+    },
+    {
+      "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Zorg_en_gezondheid",
+      "label": "Zorg en gezondheid",
+      "description": " description"
     }
   ]
 }
