@@ -4,32 +4,32 @@
     {
       "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Bestuur",
       "label": "Bestuur",
-      "description": " description"
+      "description": "Bestuur description"
     },
     {
       "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Cultuur_en_recreatie",
       "label": "Cultuur en recreatie",
-      "description": " description"
+      "description": "Cultuur en recreatie description"
     },
     {
       "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Economie",
       "label": "Economie",
-      "description": " description"
+      "description": "Economie description"
     },
     {
       "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Financien",
       "label": "Financi\u00ebn",
-      "description": " description"
+      "description": "Iets over Financien"
     },
     {
       "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Huisvesting_(thema)",
       "label": "Huisvesting",
-      "description": " description"
+      "description": "Huisvesting description"
     },
     {
       "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Internationaal",
       "label": "Internationaal",
-      "description": " description"
+      "description": "Internationaal description"
     },
     {
       "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Landbouw_(thema)",
@@ -38,17 +38,17 @@
     {
       "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Migratie_en_integratie",
       "label": "Migratie en integratie",
-      "description": " description"
+      "description": "Migratie en integratie description"
     },
     {
       "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Natuur_en_milieu",
       "label": "Natuur en milieu",
-      "description": " description"
+      "description": "Natuur en milieu description"
     },
     {
       "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Onderwijs_en_wetenschap",
       "label": "Onderwijs en wetenschap",
-      "description": " description"
+      "description": "Onderwijs en wetenschap description"
     },
     {
       "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Openbare_orde_en_veiligheid",
@@ -65,12 +65,12 @@
     {
       "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Sociale_zekerheid",
       "label": "Sociale zekerheid",
-      "description": " description"
+      "description": ".. description"
     },
     {
       "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Verkeer_(thema)",
       "label": "Verkeer",
-      "description": " description"
+      "description": "dummy description"
     },
     {
       "identifier": "http:\/\/standaarden.overheid.nl\/owms\/terms\/Werk_(thema)",
